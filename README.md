@@ -8,6 +8,9 @@ As of now, the Certificate Authority issues certificates for...
 
 We do not issue certificates to third-parties and we do not plan to become an official supported Certificate Authority trusted by browsers.
 
+All other services, such as our website, mail servers, or any other publicly exposed service, do not make use of this Certificate Authority.
+
 Certificate Fingerprint (SHA256): `21:6C:49:3B:83:A7:1C:14:CC:EE:16:7F:55:FC:6A:C0:DE:98:76:E0:1B:98:FA:B0:6A:19:4C:22:E6:73:C7:A7`
 
 The certificate chain file can be found in the [chain.pem](https://raw.githubusercontent.com/verosent/certificate-authority/main/chain.pem) of this repository.
+
